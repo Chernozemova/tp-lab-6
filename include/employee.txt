@@ -1,0 +1,3 @@
+0 Kolya Burgerking Cleaner 130 90
+1 Vasya Malina Tester 110 120 MatLab 100000 0.04
+2 Katya Gorshkova Manager Proect 100 0.001
